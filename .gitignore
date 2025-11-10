@@ -1,0 +1,47 @@
+# Swift Package Manager build directory
+.build/
+
+# Visual Studio Code configuration
+.vscode/
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.swiftpm/
+Package.resolved
+
+# Build artifacts
+*.o
+*.a
+*.dylib
+*.so
+*.dll
+*.exe
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.backup
+*.bak
+
+# Dependency directories
+Carthage/
+Pods/
+
+# Swift Package Manager dependencies
+.checkouts/
+.repositories/
+
+# Package Manager
+Package.pins
